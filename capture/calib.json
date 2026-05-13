@@ -1,0 +1,21 @@
+{
+  "primary": {
+    "fx": 605.5,
+    "fy": 605.5,
+    "cx": 424.0,
+    "cy": 239.0,
+    "width": 848,
+    "height": 478,
+    "dist": [0.0, 0.0, 0.0, 0.0, 0.0]
+  },
+  "secondary": null,
+  "baseline_m": null,
+  "R_secondary_in_primary": null,
+  "t_secondary_in_primary": null,
+  "R_imu_in_primary": [
+    [1.0, 0.0, 0.0],
+    [0.0, 1.0, 0.0],
+    [0.0, 0.0, 1.0]
+  ],
+  "approx_depth_m": 3.0
+}

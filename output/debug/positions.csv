@@ -1,0 +1,11 @@
+frame_idx,ref_frame,pixel_offset,object_edge,had_mover
+1,0,0.47,0,True
+2,1,0.37,0,True
+3,2,0.39,0,True
+4,3,0.47,0,True
+5,4,0.33,0,True
+6,5,0.5,0,True
+14,6,6.81,8,True
+33,14,79.18,81,True
+108,33,248.4,253,True
+120,108,59.32,340,True
