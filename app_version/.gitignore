@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Kotlin incremental compilation
+.kotlin/
+
+# Local config (machine-specific)
+local.properties
+
+# Captured session data (large binary files)
+captured_data/
+
+# IDE
+.idea/
+*.iml
